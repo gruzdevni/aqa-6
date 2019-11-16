@@ -1,9 +1,9 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1wdbxmpc6wcd0ucy?svg=true)](https://ci.appveyor.com/project/gruzdevni/aqa-5)
+[![Build status](https://ci.appveyor.com/api/projects/status/9thokgraj33d2yl4?svg=true)](https://ci.appveyor.com/project/gruzdevni/aqa-6)
 
 
-# Automated test set for Bank subscription form
+# Automated test set for Bank transfer form
 ### Just another test using Selenide.
-### Some Faker field generations were used as well.
+### Page objects were used in this test.
 
 ### To install it:
 1. Clone or download repository
